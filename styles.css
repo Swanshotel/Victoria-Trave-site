@@ -1,0 +1,101 @@
+body {text-align: center;
+  font-family: 'IBM Plex Sans', sans-serif;
+  background-color: #f4f4f2;
+  padding: 0% 5%;
+  }
+  
+  
+  .main-text{color: #ff5722;}
+  .text-2{color: #3797a4}
+  
+  .heading-paragraph {margin: 1% 8%;
+  font-family:'IBM Plex Sans';
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  text-align: justify;
+  }
+  
+  .indoor{text-align: center;
+  padding:1% 20%;
+  margin: 0 1%;
+  }
+  
+  
+  .content{padding: 1% 10%;
+  margin: 1% 6%;}
+  
+  
+  h1 {color: black;}
+  h2 { font-family: 'Lobster Two', cursive; text-align: center;}
+  h3 {font-family: 'Antic Slab', serif;}
+  h5{color: cornflowerblue;}
+  
+  
+  pre {font-family: 'Lobster Two';
+  font-weight: 100;}
+  
+  
+  .icon{color: #28df99;}
+  .btn {text-align: center; margin: 13px;}
+  .img{width: 25%; float:right;}
+  .outdoor-p{ text-align: center; line-height: 45px;}
+  .indoor-p{text-align: center; line-height: 45px;}
+  .restaurant-p{text-align: center; line-height: 45px;}
+  
+  .image{text-align: center;}
+  .img-fluid {text-align: center;
+    border-radius: 30px;
+  }
+  
+  
+  .screen{text-align: center;}
+  .nav{text-align:center;}
+  
+  .main-body{margin: auto;}
+  
+  .para{margin: 1% -10%;
+    font-family:'IBM Plex Sans';
+    text-transform: capitalize;
+    text-align: justify;
+    box-sizing: initial; 
+    font-weight: bold;
+
+  }
+  
+  .card-group{text-align-last: center;}
+  
+  
+  
+  @media (max-width: 900px){
+    p{font-size: 1.25rem;
+    line-height: 1.25;}
+  }
+  @media screen and (min-width: 600px) {
+    .section-center {
+      width: 95vw;}
+    }
+   
+    
+  .rest-para{text-align: center;font-weight: bold;}
+
+  .indo-pic{border-radius: 30px;
+  background-origin: padding-box;}
+ 
+  .indo-text{text-align: center;
+    margin: 1% 5%;
+    font-family:'IBM Plex Sans';
+    text-transform: capitalize;
+     box-sizing: initial; 
+    font-weight: bold;
+  font-size: .95rem;}
+
+  .indoor-p{font-size: .95rem;}
+
+  .out-pic{border-radius: 30px;}
+  .out-text{text-align: center;
+    margin: 1% 5%;
+    font-family:'IBM Plex Sans';
+    text-transform: capitalize;
+     box-sizing: initial; 
+    font-weight: bold;
+  font-size: .95rem;}
